@@ -1,5 +1,8 @@
 # hedy.roxanne.main.py
 from _spy.vitollino.main import Cena, STYLE, Texto, Elemento
+
+###########################################TAKE2############################################################
+
 STYLE['width'] = 1000
 STYLE['height'] = "600px"
 
