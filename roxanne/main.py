@@ -7,7 +7,7 @@ STYLE['width'] = 1000
 STYLE['height'] = "600px"
 
 
-NOITE = "https://i.imgur.com/Cfqvyhg.png"
+NOITE = "https://cdn.pixabay.com/photo/2017/05/07/04/38/night-sky-2291623_960_720.png"
 
 #def _main():
  #   document['pydiv'].html = ""
