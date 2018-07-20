@@ -1,7 +1,7 @@
 # hedy.roxanne.main.py
 from _spy.vitollino.main import Cena, STYLE, Texto, Elemento
-STYLE['width'] = 740
-STYLE['height'] = 740
+STYLE['width'] = 1000
+STYLE['height'] = "600px"
 
 
 NOITE = "https://i.imgur.com/Cfqvyhg.png"
