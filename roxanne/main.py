@@ -3,11 +3,16 @@ from _spy.vitollino.main import Cena, STYLE, Texto, Elemento
 
 ###########################################TAKE2############################################################
 
-STYLE['width'] = 1000
-STYLE['height'] = "600px"
+STYLE['width'] = 700
 
 
-NOITE = "https://cdn.pixabay.com/photo/2017/05/07/04/38/night-sky-2291623_960_720.png"
+
+noite = "https://cdn.pixabay.com/photo/2017/05/07/04/38/night-sky-2291623_960_720.png"
+ 
+class Entrada():
+    def __init__ (self):
+    self.cena_n  = Cena(img = noite) 
+
 
 #def _main():
  #   document['pydiv'].html = ""
