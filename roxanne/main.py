@@ -19,7 +19,6 @@ class Entrada():
 #  a_noite = Cena(img=NOITE)
 # a_noi.vai()
 
-
 #if __name__ == "__main__":
     #main()
     #Bloco(oce, 3, 7)
