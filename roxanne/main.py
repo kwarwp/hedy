@@ -13,7 +13,6 @@ class Entrada():
     def __init__ (self):
     self.cena_n  = Cena(img = noite) 
 
-
 #def _main():
 #   document['pydiv'].html = ""
 #  a_noite = Cena(img=NOITE)
