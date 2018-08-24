@@ -15,9 +15,9 @@ class Entrada():
 
 
 #def _main():
- #   document['pydiv'].html = ""
-  #  a_noite = Cena(img=NOITE)
-   # a_noi.vai()
+#   document['pydiv'].html = ""
+#  a_noite = Cena(img=NOITE)
+# a_noi.vai()
 
 
 #if __name__ == "__main__":
