@@ -29,7 +29,7 @@ def criarcena():
     
     homemaranha = Elemento(img=HOMEMARANHA, tit="Homem-Aranha", style=dict(right="100px", top="160px", width="60px", height="200px"))
     homemaranha.entra(casa)
-    ehomemaranha = Texto (casa, "Ohhh! Uma casa!!)
+    ehomemaranha = Texto (casa, "Ohhh! Uma casa!!")
     homemaranha.vai = ehomemaranha.vai
     
     homemaranha = Elemento(img=HOMEMARANHA, tit="Homem-Aranha", style=dict(right="100px", top="160px", width="60px", height="200px"))
