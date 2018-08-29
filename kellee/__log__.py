@@ -34,3 +34,10 @@ SyntaxError: invalid syntax
                                                 ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Wed Aug 29 2018 11:27:35.759 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 52
+  homemaranha = Elemento(img=HOMEMARANHA, tit="Homem-Aranha", style=dict(right="100px", top="160px", width="60px", height="200px"))
+  ^
+IndentationError: unexpected indent
+'''},
