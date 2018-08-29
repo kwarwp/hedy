@@ -14,4 +14,4 @@ def criarcenas():
     mesa = Cena(img=MESA)
     selva.direita = MESA
     
-    tarzan = Elemento(img=TARZAN, tit="Tarzan", style=dict(left="150
+    tarzan = Elemento(img=TARZAN, tit="Tarzan", style=dict(left="150px", top="150px", width
