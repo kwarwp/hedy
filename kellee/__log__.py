@@ -45,3 +45,7 @@ IndentationError: unexpected indent
 'error': '''
 Exception: <SyntaxError: Expected ';'>
 '''},
+{'date': 'Wed Aug 29 2018 11:32:44.407 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+Exception: <SyntaxError: Expected ';'>
+'''},
