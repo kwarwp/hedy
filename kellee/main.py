@@ -44,6 +44,11 @@ def criarcena():
     etarzan = Texto (mesadecha, "Vai um chá ai?")
     tarzan.vai = etarzan.vai
     
+    floresta.vai()
+    
+criarcenas()    
+    
+    
     homemaranha = Elemento(img=HOMEMARANHA, tit="Homem-Aranha", style=dict(right="100px", top="160px", width="60px", height="200px"))
     homemaranha.entra(mesadecha2)
     tarzan = Elemento(img=TARZAN, tit="Tarzan", style=dict(right="150px", top="160px", width="60px", height="200px"))
