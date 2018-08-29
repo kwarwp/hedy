@@ -47,7 +47,7 @@ def criarcena():
     
     homemaranha = Elemento(img=HOMEMARANHA, tit="Homem-Aranha", style=dict(right="100px", top="160px", width="60px", height="200px"))
     homemaranha.entra(mesadecha2)
-    tarzan = Elemento(img=TARZAN, tit="Tarzan", style=dict(right="150px", top="160px", width="60px", height="200px"))
+    tarzan = Elemento(img=TARZAN, tit="Tarzan", style=dict(left="150px", top="160px", width="60px", height="200px"))
     tarzan.entra(mesadecha2)
     ehomemaranha = Texto (mesadecha2, "Não, só tomo Vodka! Obrigada!")
     homemaranha.vai = ehomemaranha.vai
