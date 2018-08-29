@@ -41,3 +41,7 @@ SyntaxError: EOL while scanning string literal
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Aug 29 2018 11:29:43.831 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+Exception: <SyntaxError: Expected ';'>
+'''},
