@@ -1,6 +1,8 @@
 # hedy.kellee.main.py
-from _spy.vitollino.main import Cena, Texto, Elemento
+from _spy.vitollino.main import Cena, Texto, Elemento, STYLE
 from _spy.vitollino.main import INVENTARIO as inv
+STYLE["width"]=800
+STYLE["height"]=600
 
 HOMEMARANHA = "https://static3.tcdn.com.br/img/img_prod/460977/pre_venda_boneco_homem_aranha_spider_man_homem_aranha_de_volta_ao_lar_spider_man_homecoming_movie_ma_21001_1_20170619150009.jpg"
 YODA = "https://vignette.wikia.nocookie.net/disney/images/9/95/Master_Yoda.png/revision/latest?cb=20161024220430&path-prefix=pt-br"
