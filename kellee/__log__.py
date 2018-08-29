@@ -27,3 +27,10 @@ SyntaxError: invalid syntax
                ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Aug 29 2018 11:27:01.778 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 32
+  ehomemaranha = Texto (casa, "Ohhh! Uma casa!!)
+                                                ^
+SyntaxError: EOL while scanning string literal
+'''},
