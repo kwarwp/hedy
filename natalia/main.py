@@ -34,6 +34,8 @@ class Jogador:
     def decida(self):
         self.sair.apresente()
     
+    def __init__(self):   
+        self.joias = Joias()
     def receba(self)
         self.joia.retorna()
 class Mesa: 
