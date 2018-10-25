@@ -105,3 +105,10 @@ NameError: name '__natalia__' is not defined
                    ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Thu Oct 25 2018 12:06:02.955 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 39
+  def receba(self)
+                   ^
+SyntaxError: invalid syntax
+'''},
