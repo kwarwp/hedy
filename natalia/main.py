@@ -26,9 +26,16 @@ class Iniciar:
 class Jogador:
     def __init__(self):
         self.ficar = Ficar()
-    
-        self.sair = Sair()
+    def decida(self):
+        self.ficar.apresente()
         
+    def __init__(self):   
+        self.sair = Sair()
+    def decida(self):
+        self.sair.apresente()
+    
+    def receba(self)
+        self.joia.retorna()
 class Mesa: 
     def __init__(self): 
         self.partida = Partida()
