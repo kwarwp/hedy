@@ -37,8 +37,3 @@ class Mesa:
         self.joias = Joias()
         self.morrer = Morrer()
         
-if __natalia__ == "__main__": 
-    iniciar = Iniciar()
-    iniciar.inicie()
-
-
