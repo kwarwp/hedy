@@ -1,10 +1,10 @@
 # hedy.natalia.main.zpy
-from lisa.main import Rodada()
-from lisa.main import Partida()
-from ruzwana.main import Ficar()
-from ruzwana.main import Turno()
-from kathryn.main import Joias()
-from lisa.main import Morrer()
+from kathryn.main import Rodada
+from lisa.main import Partida
+from ruzwana.main import Ficar
+from ruzwana.main import Turno
+from kathryn.main import Joias
+from lisa.main import Morrer
 
 """
 kathryn - Baralho - Joias - Rodada
@@ -20,12 +20,13 @@ class Iniciar:
     def __init__(self):
         print("Iniciar __init__")
         self.rodada = Rodada()
-    def comeca(self)
-        self.rodada.inicia()
+    def inicie(self):
+        self.rodada.inicie()
         
 class Jogador:
     def __init__(self):
         self.ficar = Ficar()
+    
         self.sair = Sair()
         
 class Mesa: 
