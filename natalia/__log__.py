@@ -13,3 +13,10 @@ SyntaxError: invalid syntax
                                    ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Thu Oct 25 2018 11:54:37.290 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 2
+  from kathryn.main import Rodada()
+                                   ^
+SyntaxError: invalid syntax
+'''},
