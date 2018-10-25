@@ -20,3 +20,10 @@ SyntaxError: invalid syntax
                                    ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Thu Oct 25 2018 11:57:20.34 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 23
+  def inicie(self)
+                   ^
+SyntaxError: invalid syntax
+'''},
