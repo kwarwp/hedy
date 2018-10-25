@@ -39,6 +39,6 @@ class Mesa:
         
 if __natalia__ == "__main__": 
     iniciar = Iniciar()
-    iniciar.comeca()
+    iniciar.inicie()
 
 
