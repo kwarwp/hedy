@@ -9,6 +9,6 @@ class praiouuu():
     sol= Elemento(img=SOL)
     banhista= Elemento(img=BANHISTA)
     sol.entra(praia)
-    banhista.entra.sul(praia)
+    banhista.entra(praia)
     praia.vai()
 praiouuu() 
